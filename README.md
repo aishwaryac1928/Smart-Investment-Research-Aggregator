@@ -46,29 +46,7 @@ Frontend will run at: http://localhost:3000
 
 ### Project Structure
 
-Smart-Investment-Research-Aggregator/
-│── backend/              # FastAPI app
-│   ├── main.py           # API routes
-│   ├── data.csv          # Mock research dataset
-│   └── requirements.txt
-│
-│── frontend/             # React app
-│   ├── src/App.js        # Main React component
-│   ├── src/App.css       # Styles
-│   └── package.json
-│
-│── docs/                 # Documentation
-│   ├── Architecture.md
-│   ├── AI_USAGE.md
-│   └── TEST_PLAN.md
-│
-├── README.md            # Setup & usage
-├── ARCHITECTURE.md      # System design docs
-├── AI_USAGE.md          # AI usage documentation
-├── TEST_PLAN.md         # Testing approach
-└── .gitignore
-
-
+<img width="446" height="994" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/c87de363-bcc1-42fd-889d-75ff9eadc12d" />
 
 ### 📦 Tech Stack
 
