@@ -108,7 +108,8 @@ Smart-Investment-Research-Aggregator/
 
 - The design is minimal and intuitive, making it easy for analysts to start their research.
 
-![alt text](<Screenshot (30)-1.png>)
+<img width="1920" height="872" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/092925d3-4b64-4cec-b2e9-c9e6c457daac" />
+
 
 
 2. Research Brief – Consensus View & Conflicting Opinions
@@ -121,7 +122,7 @@ Smart-Investment-Research-Aggregator/
 
 - This ensures that users see both the broad agreement and the nuances in analyst reports.
 
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/47bb7ab7-2606-4eab-968f-5425a634a872" />
+<img width="1903" height="858" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/c07d24ac-ebea-4388-8216-451215f7edf4" />
 
 
 
@@ -135,5 +136,6 @@ Smart-Investment-Research-Aggregator/
 
 - Export Feature: A button to Export as DOCX, allowing users to save and share the research brief in a professional format.
 
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/f767f6b0-7f54-4583-b6f5-c34b64489a7d" />
+<img width="1892" height="848" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/dc3bfa0f-7891-4afd-a55d-363f846958ca" />
+
 
