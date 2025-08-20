@@ -90,6 +90,7 @@ Frontend will run at: http://localhost:3000
 
 
 
+
 2. Research Brief – Consensus View & Conflicting Opinions
 
 - After submitting a query, the system generates a structured research brief:
@@ -101,6 +102,7 @@ Frontend will run at: http://localhost:3000
 - This ensures that users see both the broad agreement and the nuances in analyst reports.
 
 <img width="1903" height="858" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/c07d24ac-ebea-4388-8216-451215f7edf4" />
+
 
 
 
