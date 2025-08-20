@@ -120,7 +120,8 @@ Smart-Investment-Research-Aggregator/
 
 - This ensures that users see both the broad agreement and the nuances in analyst reports.
 
-![alt text](<Screenshot (31).png>)
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/5c3a58ae-0e58-486d-ae9a-0db8f913283a" />
+
 
 3. Research Brief – Confidence Score & Export
 
