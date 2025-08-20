@@ -110,6 +110,7 @@ Smart-Investment-Research-Aggregator/
 
 ![alt text](<Screenshot (30)-1.png>)
 
+
 2. Research Brief – Consensus View & Conflicting Opinions
 
 - After submitting a query, the system generates a structured research brief:
@@ -120,7 +121,8 @@ Smart-Investment-Research-Aggregator/
 
 - This ensures that users see both the broad agreement and the nuances in analyst reports.
 
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/5c3a58ae-0e58-486d-ae9a-0db8f913283a" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/47bb7ab7-2606-4eab-968f-5425a634a872" />
+
 
 
 3. Research Brief – Confidence Score & Export
@@ -133,4 +135,5 @@ Smart-Investment-Research-Aggregator/
 
 - Export Feature: A button to Export as DOCX, allowing users to save and share the research brief in a professional format.
 
-![alt text](<Screenshot (32).png>)
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/f767f6b0-7f54-4583-b6f5-c34b64489a7d" />
+
